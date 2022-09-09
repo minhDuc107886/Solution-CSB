@@ -8,5 +8,4 @@ while n < 10:
     if sum == 9:
         n+=1
         print(num,end=" ")
-    
     num += 1 

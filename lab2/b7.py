@@ -32,3 +32,4 @@ right(60)
 forward(100)
 
 mainloop()
+

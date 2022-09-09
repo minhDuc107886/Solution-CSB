@@ -1,0 +1,5 @@
+firstName = input("First name:")
+lastName = input("Last name:")
+phoneNum = input("Phone number:")
+print(f'Your registered name is {firstName} {lastName}')
+print(f'Your phone number is {phoneNum}')
